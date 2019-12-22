@@ -34,9 +34,6 @@
         "test": "node test.js",
         "make-c-examples": "make -f c-examples.makefile"
     },
-    "os": [
-        "linux"
-    ],
     "dependencies": {
         "nan": ">=2.3.0"
     },
